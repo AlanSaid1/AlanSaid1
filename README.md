@@ -7,7 +7,7 @@
 ### About me
 
 1. Currently learning AI.
-2. I like playing the drums :drums:
+2. I like playing the drums :musical_note:
 3. I like going to the gym.
 4. Main repos:
 5. [Videogame](https://github.com/Adrian101-hnd/Jump_n_Bump).

@@ -9,7 +9,7 @@
 1. Currently learning AI.
 2. I like playing the drums :musical_note:
 
-Main repos:
+4. Main repos:
 5. [Videogame](https://github.com/Adrian101-hnd/Jump_n_Bump).
 6. [Agents_simulation_with_mesa](https://github.com/AlanSaid1/M1Actividad).
 7. [Car Agency (WheelWise)](https://github.com/WheelWise).

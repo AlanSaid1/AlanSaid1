@@ -1,6 +1,6 @@
 # Hi there! :man_technologist: my name is Alan Martinez
 
-### I'm currently studying at Tecnologico de Monterrey, in sixth semester.
+### I'm currently studying at Tecnologico de Monterrey, in 7th semester.
 
 ----------------
 ### About me

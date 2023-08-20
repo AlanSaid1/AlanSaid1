@@ -1,9 +1,9 @@
 # Hi there! :man_technologist: my name is Alan Martinez
 
-### I'm currently studying at Tecnologico de Monterrey, in 7th semester.
-
 # 💫 About Me:
-I'm currently looking for interships opportunities🔭<br>I’m currently learning AI🌱<br>
+Education: I'm currently enrolled at Tecnologico de Monterrey, in my 7th semester. <br>
+Exploring opportunities: I'm actively seeking  intership opportunities for further develop my skills. 🔭 <br>
+Diving into AI:My current focus is on expanding my knowledge in the field of AI🌱<br>
 
 
 ## 🌐 Socials:

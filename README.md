@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 **Education:** I'm currently enrolled at Tecnologico de Monterrey, in my 7th semester. <br>
-**Exploring opportunities:** I'm actively seeking  intership opportunities for further develop my skills. 🔭 <br>
 **Diving into AI:** My current focus is on expanding my knowledge in the field of AI🌱<br>
 
 

@@ -1,4 +1,7 @@
 # 💫 About Me:
+My name is Alan Martinez
+
+
 I'm currently working on: Giving Tech Support on GCP.<br>I'm currently learning: Data Structures and Algorithms in a deeper lever, at the same time that I'm working my way up to obtain a GCP certification.<br>Ask me about: Serverless Architecture in AWS.<br>Fun fact: I'm learning German and I like to play the guitar.
 
 
